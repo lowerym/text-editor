@@ -1,7 +1,7 @@
 {
   "name": "JATE",
   "version": "1.0.0",
-  "description": "",
+  "description": "A custom-made text editor that meets the PWA criteria and features several data persistence techniques that serves a redundancy in case some options are not supported by the browser. The application also functions offline.",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
